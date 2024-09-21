@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Sridevi
-- 👀 I’m interested in SDE
+- 👀 I’m interested in DSA and Development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on
+
 
 <!---
 Sridevi0321/Sridevi0321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
