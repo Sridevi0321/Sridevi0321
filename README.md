@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sridevi
 - 👀 I’m interested in DSA and Development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on
 
 
 <!---
