@@ -24,7 +24,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sridevi-krishnamoorthy-9198b2290/)](https://www.linkedin.com/in/sridevi-krishnamoorthy-9198b2290/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/SriDevi2004/)](https://leetcode.com/u/SriDevi2004/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/devi_krish2124)](https://www.hackerrank.com/profile/devi_krish2124)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/devi_krish2124)](https://www.hackerrank.com/profile/devi_krish2124)<br>
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/devikri814u/)](https://www.geeksforgeeks.org/user/devikri814u/)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/sridevi_2124)](https://www.codechef.com/users/sridevi_2124)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%23000?style=for-the-badge&logo=codingninjas&logoColor=white&link=https://www.naukri.com/code360/profile/dc458ba0-ea5c-4283-9f73-964b90b6b2e8)](https://www.naukri.com/code360/profile/dc458ba0-ea5c-4283-9f73-964b90b6b2e8)
